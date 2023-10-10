@@ -1,2 +1,2 @@
-# fh_swe
-FHC02 Softwareentwicklungsmodelle
+# FH Softwareentwicklungsmodelle
+FHC02 Softwareentwicklungsmodelle erstes Git Projekt
